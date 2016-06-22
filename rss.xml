@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The GrowthMinded Blog]]></title>
         <description><![CDATA[The GrowthMinded Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-growthminded-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 20:59:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 22 Jun 2016 16:27:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-growthminded-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b692b2b-721a-4984-b705-5168c2263968.jpg">]]></description>
+            <link>https://thegrid.ai/the-growthminded-blog/fe1f0c15-906f-45a9-9cc7-153cbc030789/index.html</link>
+            <guid isPermaLink="false">fe1f0c15-906f-45a9-9cc7-153cbc030789</guid>
+            <pubDate>Wed, 22 Jun 2016 16:27:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebc18905-abc3-4efc-90ae-3282a01fabb5.jpg">]]></description>
-            <link>undefined13fc0dbf-0d56-4d89-ba58-7b9b127345fe/index.html</link>
+            <link>https://thegrid.ai/the-growthminded-blog/13fc0dbf-0d56-4d89-ba58-7b9b127345fe/index.html</link>
             <guid isPermaLink="false">13fc0dbf-0d56-4d89-ba58-7b9b127345fe</guid>
             <pubDate>Thu, 16 Jun 2016 20:59:05 GMT</pubDate>
         </item>
